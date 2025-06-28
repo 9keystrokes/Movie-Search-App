@@ -1,5 +1,7 @@
 # 🎬 Movie Search App - Assignment 2 Submission
 
+[Screenshot 2025-06-29 001845.png]
+
 A movie search frontend application built with Next.js and TypeScript, integrating with the OMDB API.
 
 ## 📋 Assignment Requirements
