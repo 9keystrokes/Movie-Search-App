@@ -1,7 +1,7 @@
 # 🎬 Movie Search App
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-green)](https://movie-search-app-frontend-assingmen.vercel.app/)
-[![Deployment](https://img.shields.io/badge/Deployed%20on-Render-blue)](https://movie-search-app-frontend-assingmen.vercel.app/)
+[![Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-blue)](https://movie-search-app-frontend-assingmen.vercel.app/)
 
 A movie search frontend application built with Next.js and TypeScript, integrating with the OMDB API.
 
