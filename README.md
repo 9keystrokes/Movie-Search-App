@@ -1,13 +1,9 @@
-# 🎬 Movie Search App - Assignment 2 Submission
+# 🎬 Movie Search App
 
 ![Screenshot 2025-06-29 001845](https://github.com/user-attachments/assets/4843a943-bdf2-4413-b3a3-430ad36693ec)
 
 
 A movie search frontend application built with Next.js and TypeScript, integrating with the OMDB API.
-
-## 📋 Assignment Requirements
-
-This submission implements **Assignment 2: Movie Search App (Frontend)** with all required features and bonus functionalities.
 
 ## 🛠️ Tech Stack Used
 
@@ -107,19 +103,5 @@ This submission implements **Assignment 2: Movie Search App (Frontend)** with al
 - Provides comprehensive movie details
 - Used for search and individual movie data
 
-## 📊 Assignment Criteria Met
 
-| Category | Status | Implementation |
-|----------|--------|----------------|
-| **API Integration** | ✅ | OMDB API with proper error handling |
-| **Routing** | ✅ | Next.js App Router with dynamic routes |
-| **UI/UX** | ✅ | Responsive layout with Tailwind CSS |
-| **Component Design** | ✅ | Modular, reusable components |
-| **State Management** | ✅ | Redux Toolkit for global state |
-| **Search Experience** | ✅ | Debounced search with autocomplete |
-| **Bonus Features** | ✅ | React Query, animations, filters |
-
----
-
-**Submission by:** Nayan Mandal  
-Reach me at: bt22csd035@iiitn.ac.in (Professional Email) | nayan.iiitn@gmail.com (Personal Email)
+Built with ❤ by: **Nayan Mandal**
