@@ -8,6 +8,7 @@ A movie search frontend application built with Next.js and TypeScript, integrati
 ## 🌐 Live Demo
 Visit our platform at: [Movie-Search](https://movie-search-app-frontend-assingmen.vercel.app/)
 
+
 ![Screenshot 2025-06-29 001845](https://github.com/user-attachments/assets/4843a943-bdf2-4413-b3a3-430ad36693ec)
 
 ## 🛠️ Tech Stack Used
